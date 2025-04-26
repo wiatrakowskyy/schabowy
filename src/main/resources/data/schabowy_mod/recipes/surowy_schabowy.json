@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:porkchop"
+    },
+    {
+      "item": "schabowy_mod:bulka_tarta"
+    }
+  ],
+  "result": {
+    "item": "schabowy_mod:surowy_schabowy",
+    "count": 1
+  }
+}

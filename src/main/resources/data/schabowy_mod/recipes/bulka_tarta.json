@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "schabowy_mod:bulka_tarta",
+    "count": 8
+  }
+}

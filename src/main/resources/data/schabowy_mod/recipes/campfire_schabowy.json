@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "schabowy_mod:surowy_schabowy"
+  },
+  "result": "schabowy_mod:schabowy",
+  "experience": 0.1,
+  "cookingtime": 200
+}
